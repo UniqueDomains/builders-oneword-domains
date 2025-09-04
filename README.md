@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BUILDERS one-word domains still available to buy.
 
-This dataset contains 4,337 .BUILDERS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,372 .BUILDERS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BUILDERS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=builders-oneword-domains&utm_content=description.top) (4,055) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,14 +13,15 @@ If you want to search & filters the complete database of [.BUILDERS one word dom
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/builders-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/builders-oneword-domains/blob/main/builders.csv"><b>⬇️ CSV (4.34K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/builders-oneword-domains/blob/main/builders.json"><b>⬇️ JSON (4.34K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/builders-oneword-domains/blob/main/builders.csv"><b>⬇️ CSV (4.37K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/builders-oneword-domains/blob/main/builders.json"><b>⬇️ JSON (4.37K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=builders-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.builders        | available | 70       | 38%    | 3      |           |         |         |
 | abactinal.builders  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.builders      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.builders  | available | 58       | 10%    | 9      |           |         |         |
@@ -30,6 +31,7 @@ If you want to search & filters the complete database of [.BUILDERS one word dom
 | abatic.builders     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.builders    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.builders   | available | 50       | 1%     | 8      |           |         |         |
+| abc.builders        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.builders  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.builders  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.builders | available | 56       | 1%     | 10     |           |         |         |
@@ -43,19 +45,17 @@ If you want to search & filters the complete database of [.BUILDERS one word dom
 | abhorrent.builders  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.builders    | available | 106      | 5%     | 7      |           |         |         |
 | abient.builders     | available | 54       | 1%     | 6      |           |         |         |
+| ability.builders    | available | 92       | 18%    | 7      |           |         |         |
 | abit.builders       | available | 66       | 16%    | 5      |           |         |         |
 | abject.builders     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.builders     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.builders  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.builders     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.builders  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.builders    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.builders   | available | 68       | 3%     | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/builders-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/builders-oneword-domains/blob/main/builders.csv"><b>⬇️ CSV (4.34K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/builders-oneword-domains/blob/main/builders.json"><b>⬇️ JSON (4.34K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/builders-oneword-domains/blob/main/builders.csv"><b>⬇️ CSV (4.37K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/builders-oneword-domains/blob/main/builders.json"><b>⬇️ JSON (4.37K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=builders-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
