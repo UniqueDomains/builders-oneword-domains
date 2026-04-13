@@ -73,13 +73,13 @@ print(df.head())
 | pop.builders      | available | $7.99     | $50.99        | 82             | 43     | 3      | name.com                                                  |
 | pay.builders      | resell    | —         | —             | 84             | 60     | 3      | NameCheap, Inc.                                           |
 | travel.builders   | premium   | $128.70   | $128.70       | 115            | 48     | 6      | namecheap                                                 |
-| mark.builders     | available | $7.99     | $50.99        | 66             | 42     | 4      | name.com                                                  |
+| mark.builders     | available | $7.99     | $50.99        | 66             | 41     | 4      | name.com                                                  |
 | book.builders     | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC                                              |
 | all.builders      | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com                                                  |
-| order.builders    | available | $7.99     | $50.99        | 78             | 41     | 5      | name.com                                                  |
+| water.builders    | available | $43.98    | —             | 108            | 40     | 5      | namecheap                                                 |
 | wallet.builders   | resell    | —         | —             | 74             | 54     | 6      | Dynadot Inc                                               |
 | big.builders      | premium   | $123.75   | $123.75       | 88             | 47     | 3      | name.com                                                  |
-| water.builders    | available | $43.98    | —             | 108            | 40     | 5      | namecheap                                                 |
+| order.builders    | available | $7.99     | $50.99        | 78             | 40     | 5      | name.com                                                  |
 | buy.builders      | resell    | —         | —             | 106            | 53     | 3      | Sav.com, LLC - 47                                         |
 | car.builders      | premium   | $85.80    | $85.80        | 94             | 46     | 3      | namecheap                                                 |
 | daily.builders    | available | $7.99     | $50.99        | 74             | 40     | 5      | name.com                                                  |
