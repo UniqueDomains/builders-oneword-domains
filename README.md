@@ -1,22 +1,22 @@
-# Available .BUILDERS One-Word Domains (9,213)
+# Available .BUILDERS One-Word Domains (11,978)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C214%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C213%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C978%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .builders one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .builders one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,978 domains** on the canonical page below.
 
-**Public extract:** 9,214 rows · **Live catalog:** 9,213 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,978 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/builders`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BUILDERS one-word dom
 
 ### Files
 
-- `builders.csv` — public CSV extract (9,214 rows)
-- `builders.json` — public JSON extract (9,214 rows)
+- `builders.csv` — public CSV extract (1,000 rows)
+- `builders.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| snap.builders     | available | $7.99     | $50.99        | 90             | 46     | 4      | name.com                                                  |
-| prompt.builders   | resell    | —         | —             | 114            | 68     | 6      | Dynadot Inc                                               |
-| air.builders      | premium   | $42.90    | $42.90        | 84             | 51     | 3      | namecheap                                                 |
-| pop.builders      | available | $7.99     | $50.99        | 82             | 44     | 3      | name.com                                                  |
-| news.builders     | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC                                              |
-| abc.builders      | premium   | $42.90    | $42.90        | 102            | 50     | 3      | namecheap                                                 |
-| wizard.builders   | available | $7.99     | $50.99        | 118            | 43     | 6      | name.com                                                  |
-| pay.builders      | resell    | —         | —             | 84             | 60     | 3      | NameCheap, Inc.                                           |
-| travel.builders   | premium   | $128.70   | $128.70       | 115            | 48     | 6      | namecheap                                                 |
-| mark.builders     | available | $7.99     | $50.99        | 66             | 41     | 4      | name.com                                                  |
-| book.builders     | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC                                              |
-| all.builders      | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com                                                  |
-| water.builders    | available | $43.98    | —             | 108            | 40     | 5      | namecheap                                                 |
-| wallet.builders   | resell    | —         | —             | 74             | 54     | 6      | Dynadot Inc                                               |
-| big.builders      | premium   | $123.75   | $123.75       | 88             | 47     | 3      | name.com                                                  |
-| order.builders    | available | $7.99     | $50.99        | 78             | 40     | 5      | name.com                                                  |
-| buy.builders      | resell    | —         | —             | 106            | 53     | 3      | Sav.com, LLC - 47                                         |
-| car.builders      | premium   | $85.80    | $85.80        | 94             | 46     | 3      | namecheap                                                 |
-| dark.builders     | available | $7.99     | $50.99        | 52             | 40     | 4      | name.com                                                  |
-| business.builders | resell    | —         | —             | 100            | 53     | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| stories.builders       | available | $7.99     | —             | 58             | 36     | 7      | name.com    |
+| prompts.builders       | resell    | —         | —             | 54             | 39     | 7      | Dynadot Inc |
+| Jim.builders           | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap   |
+| trends.builders        | available | $7.99     | —             | 60             | 32     | 6      | name.com    |
+| houses.builders        | premium   | $123.75   | —             | 66             | 18     | 6      | name.com    |
+| letsgo.builders        | available | $7.99     | —             | 57             | 31     | 7      | name.com    |
+| HoChiMinhCity.builders | premium   | $118.80   | $118.80       | 64             | 7      | 16     | namesilo    |
+| slots.builders         | available | $7.99     | —             | 49             | 31     | 5      | name.com    |
+| blocks.builders        | available | $7.99     | —             | 53             | 29     | 6      | name.com    |
+| dogs.builders          | available | $7.99     | —             | 76             | 28     | 4      | name.com    |
+| forms.builders         | available | $7.99     | —             | 54             | 28     | 5      | name.com    |
+| tips.builders          | available | $7.99     | —             | 80             | 26     | 4      | name.com    |
+| latitude.builders      | available | $7.99     | —             | 78             | 26     | 8      | name.com    |
+| traders.builders       | available | $7.99     | —             | 60             | 26     | 7      | name.com    |
+| pops.builders          | available | $7.99     | —             | 74             | 24     | 4      | name.com    |
+| chem.builders          | available | $7.99     | —             | 74             | 24     | 4      | name.com    |
+| comics.builders        | available | $7.99     | —             | 68             | 24     | 6      | name.com    |
+| gamers.builders        | available | $7.99     | —             | 62             | 24     | 6      | name.com    |
+| whats.builders         | available | $7.99     | —             | 58             | 24     | 5      | name.com    |
+| rekt.builders          | available | $7.99     | —             | 40             | 24     | 4      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,214-row public sample | 9,213 live domains                               |
+| 1,000-row public sample | 11,978 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILDERS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILDERS One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
