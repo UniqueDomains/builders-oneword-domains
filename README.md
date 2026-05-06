@@ -1,10 +1,10 @@
-# Available .BUILDERS One-Word Domains (12,165)
+# Available .BUILDERS One-Word Domains (12,170)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C165%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C170%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .builders one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,165 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,170 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,165 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,170 domains · **Median ask:** $12.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/builders`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| stories.builders       | available | $7.99     | —             | 58             | 36     | 7      | name.com    |
-| prompts.builders       | resell    | —         | —             | 54             | 39     | 7      | Dynadot Inc |
-| Jim.builders           | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap   |
-| trends.builders        | available | $7.99     | —             | 60             | 32     | 6      | name.com    |
-| houses.builders        | premium   | $123.75   | —             | 66             | 18     | 6      | name.com    |
-| letsgo.builders        | available | $7.99     | —             | 57             | 31     | 7      | name.com    |
-| HoChiMinhCity.builders | premium   | $118.80   | $118.80       | 64             | 7      | 16     | namesilo    |
-| slots.builders         | available | $7.99     | —             | 49             | 31     | 5      | name.com    |
-| blocks.builders        | available | $7.99     | —             | 53             | 29     | 6      | name.com    |
-| dogs.builders          | available | $7.99     | —             | 76             | 28     | 4      | name.com    |
-| forms.builders         | available | $7.99     | —             | 54             | 28     | 5      | name.com    |
-| tips.builders          | available | $7.99     | —             | 80             | 26     | 4      | name.com    |
-| latitude.builders      | available | $7.99     | —             | 78             | 26     | 8      | name.com    |
-| traders.builders       | available | $7.99     | —             | 60             | 26     | 7      | name.com    |
-| pops.builders          | available | $7.99     | —             | 74             | 24     | 4      | name.com    |
-| chem.builders          | available | $7.99     | —             | 74             | 24     | 4      | name.com    |
-| comics.builders        | available | $7.99     | —             | 68             | 24     | 6      | name.com    |
-| gamers.builders        | available | $7.99     | —             | 62             | 24     | 6      | name.com    |
-| rekt.builders          | available | $7.99     | —             | 40             | 24     | 4      | name.com    |
-| girls.builders         | available | $7.99     | —             | 83             | 23     | 5      | name.com    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| tips.builders    | available | $7.99     | —             | 80             | 26     | 4      | name.com    |
+| girls.builders   | available | $7.99     | —             | 83             | 23     | 5      | name.com    |
+| jewels.builders  | available | $7.99     | —             | 80             | 15     | 6      | name.com    |
+| ladies.builders  | available | $7.99     | —             | 80             | 17     | 6      | name.com    |
+| geton.builders   | available | $7.99     | —             | 82             | 10     | 6      | name.com    |
+| getup.builders   | available | $7.99     | —             | 82             | 14     | 6      | name.com    |
+| Apples.builders  | available | $43.98    | —             | 90             | 16     | 6      | namecheap   |
+| dogsit.builders  | available | $7.99     | —             | 96             | 2      | 6      | name.com    |
+| edamame.builders | available | $7.99     | —             | 80             | 9      | 7      | name.com    |
+| playin.builders  | available | $7.99     | —             | 80             | 10     | 7      | name.com    |
+| QandA.builders   | available | $43.98    | —             | 80             | 10     | 7      | namecheap   |
+| pierogi.builders | available | $7.99     | —             | 82             | 7      | 7      | name.com    |
+| watches.builders | available | $7.99     | —             | 84             | 19     | 7      | name.com    |
+| getlife.builders | available | $7.99     | —             | 80             | 5      | 8      | name.com    |
+| stories.builders | available | $7.99     | —             | 58             | 36     | 7      | name.com    |
+| prompts.builders | resell    | —         | —             | 54             | 39     | 7      | Dynadot Inc |
+| Jim.builders     | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap   |
+| trends.builders  | available | $7.99     | —             | 60             | 32     | 6      | name.com    |
+| houses.builders  | premium   | $123.75   | —             | 66             | 18     | 6      | name.com    |
+| letsgo.builders  | available | $7.99     | —             | 57             | 31     | 7      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,165 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,170 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely focused on one-word .builders domains. The set includes broad dictionary-style terms and short brandable words such as tips.builders, finals.builders, ladies.builders, and geton.builders. For founders, the main question is whether a word feels credible, memorable, and specific enough for a construction, creator, or platform brand. For investors, the key is whether the word has clean commercial meaning and realistic resale appeal within a niche extension. The median ask is 12.35, which keeps entry pricing modest, but each name still needs review for semantic fit, trademark exposure, and likely renewal burden.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All domains in this selection use the .builders extension
+- Count: 12,170 domains with a median ask of 12.35
+- Favor words with clear meaning and strong commercial fit
+- Check trademark overlap and renewal cost before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILDERS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILDERS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
