@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .builders one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,383 domains · **Median ask:** $20.34 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/builders`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,8 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| great.builders | resell    | —         | —             | high           | low    | 5      | 1API GmbH                                                 |
-| hello.builders | available | —         | —             | high           | low    | 5      | —                                                         |
 | ain.builders   | available | $7.99     | $50.99        | low            | low    | 3      | name.com                                                  |
-| ace.builders   | resell    | —         | —             | high           | medium | 3      | Mesh Digital Limited                                      |
+| ace.builders   | resell    | —         | —             | medium         | low    | 3      | Mesh Digital Limited                                      |
 | aid.builders   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
 | bjp.builders   | available | $7.99     | —             | medium         | low    | 3      | name.com                                                  |
 | buy.builders   | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
@@ -84,6 +82,8 @@ print(df.head())
 | lxi.builders   | available | $7.99     | $50.99        | low            | low    | 3      | name.com                                                  |
 | chain.builders | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                               |
 | con.builders   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| xli.builders   | available | $7.99     | $50.99        | low            | low    | 3      | name.com                                                  |
+| money.builders | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILDERS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILDERS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
