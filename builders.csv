@@ -25,7 +25,7 @@ e252799a-cc3b-4214-b5fe-5eea878d39ed,lodge.builders,available,7.99,,medium,low,5
 4ad76dc9-b43e-46a4-a018-fed95cbe04b1,whip.builders,available,7.99,,high,low,4,name.com,,,
 644c9480-777b-4e86-b3ad-37e945f81ed0,hat.builders,premium,118.8,118.8,low,low,3,namesilo,,,19/09/2026 16:21
 81847805-5a69-4078-85c8-404b816abf25,kilometer.builders,available,7.99,,high,low,9,name.com,,,
-8baabc69-60ee-4b87-b939-d602df1f7671,engineer.builders,resell,,,medium,low,8,"GoDaddy.com, LLC",07/04/2019 02:30,07/04/2027 02:30,19/09/2026 14:35
+8baabc69-60ee-4b87-b939-d602df1f7671,engineer.builders,resell,,,medium,low,8,"GoDaddy.com, LLC",07/04/2019 02:30,07/04/2027 02:30,23/09/2026 17:26
 58add89b-6ab1-4394-85ff-9c0d480a5ac4,mining.builders,available,7.99,,medium,low,6,name.com,,,
 21567223-49f7-43a7-80bf-9c87956635c5,album.builders,available,7.99,,high,low,5,name.com,,,
 0feb64aa-7cf6-4fb8-9b50-f8d92f3b1c57,goout.builders,available,7.99,,high,low,6,name.com,,,
@@ -43,7 +43,7 @@ d2ab50bd-58c6-47aa-96f3-fd34a3b24ea8,community.builders,resell,,,medium,medium,9
 8550bb2b-9a36-4f21-b1e1-419296bad426,apogean.builders,available,7.99,50.99,low,low,7,name.com,,,06/08/2026 01:57
 9704eda5-7942-46fa-807a-040086a306ba,amative.builders,available,7.99,50.99,low,low,7,name.com,,,
 bf58abcf-bebf-4824-9861-49331a44349e,speedoflight.builders,available,7.99,,low,low,14,name.com,,,
-357f41d1-7ce9-4f55-92df-288bf48c9ff9,buy.builders,resell,,,medium,low,3,"Global Domains International, Inc. DBA DomainCostClub.com",05/07/2026 15:15,05/07/2027 15:15,19/09/2026 08:52
+357f41d1-7ce9-4f55-92df-288bf48c9ff9,buy.builders,resell,,,medium,low,3,"Global Domains International, Inc. DBA DomainCostClub.com",05/07/2026 15:15,05/07/2027 15:15,23/09/2026 06:05
 12f7fc04-d2e2-46b5-afad-ceb7f91b7c84,resolvable.builders,available,7.99,,high,low,10,name.com,,,
 c4a27832-55e2-4877-b2be-90ccb8473627,ablated.builders,available,7.99,50.99,low,low,7,name.com,,,
 5407e1d0-28fd-44f4-89d8-26f77ff76bb0,manyattimes.builders,available,7.99,,medium,low,13,name.com,,,
@@ -86,7 +86,7 @@ e0068b09-7a01-4c81-aec7-7beac2010019,marvellous.builders,available,7.99,,high,lo
 293a853a-5f68-4714-82a7-520cdd7fc8a0,shout.builders,available,7.99,,high,low,5,name.com,,,
 36b4c00d-4bcd-4865-8a9a-4b596acdfbb8,tightfitting.builders,available,7.99,,medium,low,13,name.com,,,
 6f1b808a-5dd0-40bf-80ce-8c7d06df48fe,define.builders,available,7.99,50.99,high,low,6,name.com,,,
-5ba2e430-03bd-4b0f-8b12-269758bf855f,tears.builders,available,7.99,50.99,medium,low,5,name.com,,,
+5ba2e430-03bd-4b0f-8b12-269758bf855f,tears.builders,available,35.99,35.99,low,low,5,namesilo,,,24/09/2026 02:29
 796e410c-b836-42d6-a913-dea299d2431e,ingeneral.builders,available,7.99,,medium,low,10,name.com,,,
 cb5193e1-5d80-47c0-aece-62b4f3086083,duty.builders,available,7.99,,medium,low,4,name.com,,,
 7980afa2-c992-4cb4-b3b6-2fd2713e9d36,amylaceous.builders,available,7.99,50.99,low,low,10,name.com,,,
@@ -110,7 +110,7 @@ e8a30598-da9a-4719-ad45-7a8c7f02b7e1,blueish.builders,available,35.99,35.99,low,
 6f566462-8bbb-416c-afca-c603ff77b6e0,kilogram.builders,available,7.99,,high,low,8,name.com,,,
 39cffd65-293d-44eb-b8b4-f2fa12e9e4c0,backtosquareone.builders,available,7.99,,high,low,18,name.com,,,
 eab90558-8444-491f-9436-a8dc1bded501,producing.builders,available,7.99,,low,low,9,name.com,,,
-a6078943-2c21-429d-9e4e-3d5a04a6caaf,dead.builders,available,7.99,50.99,high,low,4,name.com,,,
+a6078943-2c21-429d-9e4e-3d5a04a6caaf,dead.builders,available,35.99,35.99,medium,low,4,namesilo,,,24/09/2026 04:40
 d1119a8d-47ef-4ca5-ab73-337d72144ef2,panic.builders,available,7.99,,medium,low,5,name.com,,,
 5d6612f3-2d4f-4b29-802d-5076c2e93797,cleaver.builders,available,7.99,,medium,low,7,name.com,,,
 99468291-6d20-489f-bf75-ef0385247d14,toying.builders,available,7.99,,medium,low,6,name.com,,,
@@ -165,7 +165,7 @@ ee6b1e3d-afaa-47cf-a6f3-44bad5bae593,unemployment.builders,available,7.99,,low,l
 3114536b-3685-4dae-bdd1-93476a028002,rescheduling.builders,available,7.99,,medium,low,12,name.com,,,
 1dfc9850-f8b5-4cd7-a6d4-eeb722f2a7c2,recreant.builders,available,7.99,50.99,low,low,8,name.com,,,06/08/2026 03:55
 dec9a017-530a-4d26-b469-4867febe8231,noticed.builders,available,7.99,,high,low,7,name.com,,,
-46d6e1a1-f6c9-4e2a-8634-7a1e48210353,cod.builders,premium,78.54,78.54,high,low,3,namesilo,,,
+46d6e1a1-f6c9-4e2a-8634-7a1e48210353,cod.builders,premium,78.54,78.54,low,low,3,namesilo,,,23/09/2026 14:56
 6afc1205-918d-47f2-9179-3fa242f8003c,wake.builders,available,35.99,35.99,low,low,4,namesilo,,,22/09/2026 14:42
 0c8b908d-f754-4756-83aa-138800917429,inverse.builders,available,7.99,,high,low,7,name.com,,,
 64b4d383-0cc9-484a-9469-76edd429d5fa,depression.builders,available,7.99,,medium,low,10,name.com,,,
@@ -176,7 +176,7 @@ e9497f0f-b6fa-47c8-ba33-7dc2f51fedaf,whatnow.builders,available,7.99,,low,low,8,
 630f3459-6b0a-4f2d-b87a-6b484de0dd0e,glistering.builders,available,7.99,50.99,low,low,10,name.com,,,
 b008262d-7f73-4958-ae83-653ac4a26679,topic.builders,available,7.99,,high,low,5,name.com,,,
 80eee264-b95c-4d5b-b025-54aece58daf9,windmill.builders,available,34.98,43.98,low,low,9,namecheap,,,17/09/2026 13:01
-9e29b3f7-0304-4600-b26b-d1d797b1a61e,vast.builders,available,35.99,35.99,medium,low,4,namesilo,,,19/09/2026 06:11
+9e29b3f7-0304-4600-b26b-d1d797b1a61e,vast.builders,available,34.98,43.98,medium,low,4,namecheap,,,23/09/2026 09:06
 2ac64993-b72f-4372-95f4-9cf690f26f2a,footballmatch.builders,available,7.99,,high,low,14,name.com,,,
 079b9081-1da3-4d7c-a692-42e99935abe9,extinction.builders,available,7.99,,medium,low,10,name.com,,,
 90c00fa1-5c56-471d-a969-a01b036d41c4,overdue.builders,available,7.99,,medium,low,7,name.com,,,
@@ -310,7 +310,7 @@ bddc2985-dc0b-4daf-bb45-bdd5eccc6c07,investmentbanking.builders,available,7.99,,
 c32330cf-82d3-4e8f-853f-4b0b94f12193,agitated.builders,available,7.99,50.99,low,low,8,name.com,,,
 0199d0f1-32bf-4548-b393-ff5c3645637c,breathtaking.builders,available,7.99,,high,low,12,name.com,,,
 c0c4c643-7418-4d1a-9c7f-6600fe328cd6,friends.builders,premium,118.8,118.8,medium,medium,7,namesilo,,,
-033cc6e9-ceb2-4ae5-88e4-e5be4d215d67,medicine.builders,available,35.99,35.99,medium,low,8,namesilo,,,20/09/2026 02:42
+033cc6e9-ceb2-4ae5-88e4-e5be4d215d67,medicine.builders,available,35.99,35.99,medium,low,8,namesilo,,,23/09/2026 06:09
 5229d9c9-773a-4eb6-a757-40f12c0bd496,cookie.builders,available,7.99,,high,low,6,name.com,,,
 95f0522c-eff3-4005-bbeb-82aca7d7b95e,rudderless.builders,available,7.99,50.99,low,low,10,name.com,,,
 baa587eb-dc7a-4ee2-8884-fbf71676a5e4,hiding.builders,available,34.98,43.98,low,low,6,namecheap,,,08/09/2026 11:45
@@ -366,7 +366,7 @@ a5519497-062d-48e1-b7b1-6f62a11405e6,pat.builders,premium,78.54,78.54,high,low,3
 8355885d-b22b-4985-b495-a0b835725288,gotothetoilet.builders,available,7.99,,medium,low,16,name.com,,,
 e4b502d8-7143-49ba-855d-a467622fe881,stranger.builders,available,7.99,,high,low,8,name.com,,,
 c5c8ef0c-a175-4a16-957d-93b370360ef4,young.builders,available,7.99,,high,low,5,name.com,,,
-6e31931d-a25e-458e-86dc-251c750f774b,spiral.builders,available,7.99,,high,low,6,name.com,,,
+6e31931d-a25e-458e-86dc-251c750f774b,spiral.builders,available,34.98,43.98,medium,low,6,namecheap,,,23/09/2026 14:59
 589f9cad-0739-456a-92c2-85f840448ee0,annex.builders,available,7.99,,medium,low,5,name.com,,,
 2ebbd9b2-493e-473c-bae5-d5b9ee75c766,require.builders,available,7.99,,high,low,7,name.com,,,
 75448e79-91a5-4dbc-b78b-b8edc8244621,decumbent.builders,available,7.99,50.99,low,low,9,name.com,,,
@@ -392,7 +392,7 @@ a700bb4e-f967-4c99-b7b4-47e45f2fce70,goodbet.builders,available,7.99,,high,low,8
 d59d8817-48a9-4672-9fa7-1c7d75587e2c,quickly.builders,available,7.99,,medium,low,7,name.com,,,
 ced79a17-5261-42cd-912a-a66c1bce5476,xxi.builders,available,34.98,43.98,low,low,3,namecheap,,,21/09/2026 12:32
 07c1c067-7013-4617-9549-1a293ab17f65,eyrie.builders,available,7.99,50.99,low,low,5,name.com,,,
-3fd5a987-a343-4633-aa38-b93075e2e102,recovering.builders,available,7.99,50.99,high,low,10,name.com,,,
+3fd5a987-a343-4633-aa38-b93075e2e102,recovering.builders,available,35.99,35.99,medium,low,10,namesilo,,,23/09/2026 22:44
 ba0e9401-3806-49ca-bf6b-094edad1b381,visual.builders,resell,,,medium,low,6,Dynadot Inc,22/02/2026 18:02,22/02/2027 18:02,19/09/2026 17:59
 fd991094-45bd-4508-a46c-a9480f6e6c01,nearpost.builders,available,7.99,,medium,low,9,name.com,,,
 1c671d6c-1c6d-4acf-8440-6487fb902def,certainly.builders,available,7.99,,medium,low,9,name.com,,,
@@ -424,8 +424,7 @@ aabfa1cc-ffec-4ade-aa20-c314ace133ab,funfair.builders,available,7.99,,high,low,7
 7dc2a9e6-a5f8-42a6-8c2d-ea788f226013,aging.builders,available,35.99,35.99,low,low,5,namesilo,,,21/09/2026 22:40
 9991d416-9456-41cf-9a17-eda6060611b7,mario.builders,available,7.99,,high,low,5,name.com,,,
 bc264604-4622-4648-8e8c-715fd2395403,evil.builders,available,7.99,,high,low,4,name.com,,,
-fd28e7c3-4f03-4289-8168-9b476771a8bb,tabby.builders,available,7.99,,medium,low,5,name.com,,,
-61136190-7a50-4134-8e89-b1a65d402359,comparable.builders,available,7.99,50.99,high,low,10,name.com,,,
+61136190-7a50-4134-8e89-b1a65d402359,comparable.builders,available,35.99,35.99,medium,low,10,namesilo,,,23/09/2026 16:34
 f58a9591-2337-4b6c-a917-bc4b5afd128f,optionally.builders,available,7.99,,medium,low,10,name.com,,,
 1abfcabe-df4f-4691-a10a-ca32747a41cf,frenchonionsoup.builders,available,7.99,,high,low,17,name.com,,,
 7e99de90-946f-4507-99fa-8863d7895891,agonistic.builders,available,7.99,50.99,low,low,9,name.com,,,
@@ -461,20 +460,20 @@ a754c0f8-05eb-44f3-9c67-a54910bc53fb,youngatheart.builders,available,7.99,,low,l
 62af7624-edcb-4118-b3cb-90ae12010521,savage.builders,available,7.99,50.99,low,low,6,name.com,,,08/08/2026 15:36
 50a4fe9d-b4f2-48bc-a02b-3102e53ce895,itchy.builders,available,7.99,50.99,low,low,5,name.com,,,05/08/2026 20:43
 f1f328a9-d81f-4b5f-baa3-a8bffd4faeb8,giveblood.builders,available,7.99,,high,low,10,name.com,,,
-68fc7ec7-c6b5-4e9a-bc7e-baaef4be6c43,school.builders,available,35.99,35.99,medium,low,6,namesilo,,,20/09/2026 03:02
+68fc7ec7-c6b5-4e9a-bc7e-baaef4be6c43,school.builders,available,35.99,35.99,medium,low,6,namesilo,,,23/09/2026 11:06
 ee0c50c2-43cc-4476-83f8-ae3783df7357,acinous.builders,available,7.99,50.99,low,low,7,name.com,,,
 317b3187-76d1-4dab-a483-14c7c58627ad,humanbeing.builders,available,7.99,,high,low,11,name.com,,,
-7582db3d-9150-44cf-acdb-fd9bb74d12aa,crying.builders,available,7.99,50.99,high,low,6,name.com,,,
+7582db3d-9150-44cf-acdb-fd9bb74d12aa,crying.builders,available,34.98,43.98,low,low,6,namecheap,,,24/09/2026 02:20
 45b66866-570c-4b53-9224-873f60a8c454,vote.builders,available,7.99,,high,low,4,name.com,,,
 150f298a-0097-4a79-978c-8a3bc67a4954,jerking.builders,available,7.99,50.99,low,low,7,name.com,,,06/08/2026 21:58
 5fb90300-02ba-4c24-b44b-3c9b739bc342,could.builders,available,7.99,,high,low,5,name.com,,,
-0d402f55-9c60-464b-a878-6b75afa4bd94,sideways.builders,available,7.99,50.99,high,low,8,name.com,,,
+0d402f55-9c60-464b-a878-6b75afa4bd94,sideways.builders,available,35.99,35.99,low,low,8,namesilo,,,24/09/2026 01:14
 37377b82-981d-4720-9a79-794586181508,childneglect.builders,available,7.99,,medium,low,13,name.com,,,
 f7ae97b4-8f32-4218-8a49-c3e73b3b57f7,standto.builders,available,7.99,,low,low,8,name.com,,,
 60d0c056-270d-4260-848d-19ed1be329ec,jewnose.builders,available,7.99,,medium,low,8,name.com,,,
 f18d2201-65cf-49c4-8302-e02b876a160a,complacently.builders,available,7.99,,medium,low,12,name.com,,,
 1577db58-3158-48ac-9c5a-87091429461f,eleven.builders,available,35.99,35.99,medium,low,6,namesilo,,,21/09/2026 11:20
-955ffe7b-b293-42a4-a02f-1a4f6a493e01,address.builders,available,7.99,,high,low,7,name.com,,,
+955ffe7b-b293-42a4-a02f-1a4f6a493e01,address.builders,available,35.99,35.99,medium,low,7,namesilo,,,24/09/2026 02:37
 88bcff2e-d301-4289-83f4-27aa3fb20d25,hesitation.builders,available,7.99,,medium,low,10,name.com,,,
 11c299cf-4abd-4a1e-84aa-dccacf04bb41,sandlike.builders,available,7.99,50.99,low,low,8,name.com,,,06/08/2026 17:36
 6a8b9c21-a82c-4743-ad79-b075083ebd96,raw.builders,premium,118.8,118.8,low,low,3,namesilo,,,08/08/2026 18:20
@@ -519,7 +518,7 @@ f770c365-ed7c-4d23-84d6-643189b350fc,rats.builders,available,7.99,,medium,low,4,
 7b08f316-f8ef-4d16-bb4c-292b32996ee5,monkey.builders,available,7.99,,medium,low,6,name.com,,,
 8de28357-c87a-400b-b804-a7869d945151,childabuse.builders,available,7.99,,medium,low,11,name.com,,,
 eb9a6f73-81ad-4e92-b81c-a8394f60809c,hokey.builders,available,7.99,50.99,low,low,5,name.com,,,09/08/2026 00:37
-77f66b1d-ea46-465b-8ca9-9a4d023f9d97,drawn.builders,available,7.99,,medium,low,5,name.com,,,
+77f66b1d-ea46-465b-8ca9-9a4d023f9d97,drawn.builders,available,34.98,43.98,low,low,5,namecheap,,,23/09/2026 12:57
 e5bf845b-8463-46d4-b24f-3b907c928496,rely.builders,available,7.99,,high,low,4,name.com,,,
 04619209-a7b0-4185-9ea8-cf4e8e68303f,inregardto.builders,available,7.99,,medium,low,12,name.com,,,
 624941c4-b7b3-4bd9-a8e7-b6206082a456,bringhome.builders,available,7.99,,high,low,10,name.com,,,
@@ -533,7 +532,7 @@ e5b39018-d15c-44bd-84a4-c51f5c5325f1,daft.builders,available,7.99,50.99,low,low,
 a5be031b-f0fe-4ded-807b-cc380fdcb86b,comprise.builders,available,7.99,,high,low,8,name.com,,,
 80fc1387-16f5-45ed-a5a4-99ae0c5da456,childsupport.builders,available,7.99,,medium,low,13,name.com,,,
 9393eee0-ad0f-455b-be49-0f6ae2b04b09,research.builders,premium,85.8,85.8,medium,low,8,namecheap,,,23/09/2026 04:11
-da7bd4bf-96ef-4c20-8b4f-1fcda238a590,coveted.builders,available,7.99,50.99,high,low,7,name.com,,,
+da7bd4bf-96ef-4c20-8b4f-1fcda238a590,coveted.builders,available,35.99,35.99,low,low,7,namesilo,,,24/09/2026 00:56
 57d86f68-c0d8-43f2-a453-96e239adee56,armorial.builders,available,7.99,50.99,low,low,8,name.com,,,06/08/2026 20:15
 9f54b4e0-33b7-48ff-a92e-f532d588ba38,backhanded.builders,available,7.99,50.99,low,low,10,name.com,,,08/08/2026 05:38
 cb4c567c-71a7-448f-bfb0-3f88a957c34a,breathofheaven.builders,available,7.99,,high,low,16,name.com,,,
@@ -562,7 +561,7 @@ a3f52f89-4855-4822-a8af-5464ff582482,exculpated.builders,available,7.99,50.99,lo
 dcac7c63-82c3-45e1-b164-26b4b38017c5,restriction.builders,available,7.99,,low,low,11,name.com,,,
 5542dec8-fda0-4818-b13d-423fcce559b4,stunned.builders,available,35.99,35.99,low,low,7,namesilo,,,22/09/2026 03:44
 8d4b3d3a-12af-40c6-8ef6-ce5b7e343811,trite.builders,available,7.99,50.99,low,low,5,name.com,,,08/08/2026 11:19
-0b930346-6291-4380-a115-f1a89d39ed05,supposed.builders,available,7.99,50.99,high,low,8,name.com,,,
+0b930346-6291-4380-a115-f1a89d39ed05,supposed.builders,available,34.98,43.98,medium,low,8,namecheap,,,23/09/2026 20:34
 da0f7be1-6301-42e5-abe4-5e505964164d,meantime.builders,available,7.99,,high,low,8,name.com,,,
 50d835f4-f7db-4dcc-8940-d9b0541f4bc5,keepopen.builders,available,7.99,,high,low,9,name.com,,,
 685461ce-9cc0-4ab3-b789-15f9a75d3478,characters.builders,available,7.99,,medium,low,10,name.com,,,
@@ -612,7 +611,7 @@ a1812457-b402-45b5-86f6-7be0ff413ee4,whitetea.builders,available,34.98,43.98,med
 a9a0430b-74f6-40f3-9e28-48488f405b48,adverse.builders,available,7.99,50.99,low,low,7,name.com,,,
 98f9f07b-393a-41ef-ac94-df94edc0b318,waters.builders,available,7.99,,medium,low,6,name.com,,,
 0448b988-621a-42cf-bd15-35fee2d9df42,finalyearproject.builders,available,7.99,,high,low,18,name.com,,,
-3ccf32d3-ab52-42d4-947b-e46caad12e21,blacktea.builders,available,7.99,,high,low,9,name.com,,,
+3ccf32d3-ab52-42d4-947b-e46caad12e21,blacktea.builders,available,35.99,35.99,low,low,9,namesilo,,,24/09/2026 01:47
 6e8281dc-443c-4e16-8640-67a61a82663c,aimless.builders,available,7.99,50.99,low,low,7,name.com,,,
 44cead17-0369-4420-9cfb-cbb39040898a,devour.builders,available,7.99,,high,low,6,name.com,,,
 38183b97-8691-4795-9406-d9056e8a3129,likehell.builders,available,34.98,43.98,low,low,9,namecheap,,,15/09/2026 11:35
@@ -621,7 +620,6 @@ a9a0430b-74f6-40f3-9e28-48488f405b48,adverse.builders,available,7.99,50.99,low,l
 538ca312-b276-4bf4-8a08-f5902c28a404,andante.builders,available,7.99,50.99,low,low,7,name.com,,,
 215cf135-f41b-41f9-979b-e692dec02b96,slim.builders,available,7.99,,high,low,4,name.com,,,
 71b25d57-eb36-465e-9b5b-3839b37a0d6d,panoramic.builders,available,34.98,43.98,medium,low,9,namecheap,,,22/09/2026 21:06
-05381fa1-d4e3-42b0-866a-4d30238aafcd,nationwide.builders,available,,,high,medium,10,,,,
 071cad9b-f454-4bb6-9ffd-73ede140c4d6,adust.builders,available,7.99,50.99,low,low,5,name.com,,,
 0da5b40e-6374-4be9-b6b5-08384616af9b,sandwich.builders,available,7.99,,high,low,8,name.com,,,
 be62aa65-0dff-41a5-8a12-d8de5f97d36c,acceptive.builders,available,7.99,50.99,low,low,9,name.com,,,
@@ -640,10 +638,10 @@ a74eba51-0cab-4b2e-a7bc-02b57654e73e,lowtech.builders,available,7.99,,medium,low
 a292aa93-21e3-4541-960f-6feac1fc589b,greatly.builders,available,7.99,,high,low,7,name.com,,,
 18078115-c554-4d01-a897-c4dd7accecd4,gowith.builders,available,7.99,,high,low,7,name.com,,,
 0aeff9af-c657-4960-ab9b-3bd432af1ae6,howdoyoulikethat.builders,available,7.99,,medium,low,20,name.com,,,
-9f632c66-dc66-42f0-bdbe-a4a87e2d9f6e,limited.builders,available,7.99,,high,low,7,name.com,,,
+9f632c66-dc66-42f0-bdbe-a4a87e2d9f6e,limited.builders,available,34.98,43.98,low,low,7,namecheap,,,23/09/2026 14:41
 d7cabdec-0b79-4a2c-8948-fae2a7290310,goon.builders,available,35.99,35.99,low,low,5,namesilo,,,21/09/2026 20:43
 4fc282e7-0ab6-467b-8364-acbfb3b19c7b,evident.builders,available,7.99,50.99,low,low,7,name.com,,,06/08/2026 05:13
-ce3d3a3d-aece-4146-be49-61005f16779d,cliche.builders,available,7.99,,high,low,6,name.com,,,
+ce3d3a3d-aece-4146-be49-61005f16779d,cliche.builders,available,35.99,35.99,medium,low,6,namesilo,,,23/09/2026 16:07
 400502ed-9388-49ff-b20f-c23228ff52ea,subjective.builders,available,7.99,,medium,low,10,name.com,,,
 22d82c38-1550-41f9-8bfc-bed48ca4b863,vibrate.builders,available,7.99,,high,low,7,name.com,,,
 ce7f64bb-498a-445f-8ab4-fa49e5eef3bf,algebraic.builders,available,7.99,50.99,low,low,9,name.com,,,
@@ -680,8 +678,8 @@ c3486e0a-72a2-4c1e-aec1-f82091174cae,acrophobic.builders,available,7.99,50.99,lo
 405e131b-3809-452e-85ed-6710b86aceba,blacktie.builders,available,34.98,43.98,low,low,9,namecheap,,,22/09/2026 21:36
 c6357ffa-45f7-4934-bab3-9fde3efaf16b,altissimo.builders,available,7.99,50.99,low,low,9,name.com,,,
 2a783ebd-0239-4be9-b9f0-2f09d564387c,annalistic.builders,available,,,medium,low,10,,,,
-62e00d75-36eb-45b8-93cd-8a9cff5603ce,clever.builders,available,7.99,,high,low,6,name.com,,,
-58f2772c-7d93-4197-836d-e67255950466,order.builders,available,7.99,50.99,high,medium,5,name.com,,,
+62e00d75-36eb-45b8-93cd-8a9cff5603ce,clever.builders,available,35.99,35.99,medium,low,6,namesilo,,,23/09/2026 12:20
+58f2772c-7d93-4197-836d-e67255950466,order.builders,available,35.99,35.99,low,low,5,namesilo,,,23/09/2026 20:44
 8e15b62b-875c-4ece-a242-0211a1e8c20c,registeredtrademark.builders,available,7.99,,medium,low,20,name.com,,,
 2a0e746a-edf1-41b2-8947-7d93d828d31c,completely.builders,available,35.99,35.99,low,low,10,namesilo,,,22/09/2026 00:16
 0e9cd024-b6ff-41ef-b660-40d64fb4d3d1,spiderlike.builders,available,7.99,50.99,low,low,10,name.com,,,06/08/2026 11:52
@@ -711,7 +709,7 @@ f4223877-30b1-43dd-b334-801c33344ea3,facilitating.builders,available,7.99,,mediu
 c0a6ba8a-e4df-4192-a68f-f14ab823d484,con.builders,premium,78.54,78.54,high,low,3,namesilo,,,
 01973282-45fe-4d4e-9a7b-d4367a5fce82,ambrosian.builders,available,7.99,50.99,low,low,9,name.com,,,
 bd364e2e-cd1a-4e5c-8e9e-642542e93f66,condiment.builders,available,7.99,,high,low,9,name.com,,,
-14bd8789-adb5-4230-95b1-fada09e0959a,dedicated.builders,available,7.99,50.99,high,low,9,name.com,,,
+14bd8789-adb5-4230-95b1-fada09e0959a,dedicated.builders,available,35.99,35.99,medium,low,9,namesilo,,,23/09/2026 20:41
 009505d6-7c76-4639-8f5e-cc137b4a2fed,equivocal.builders,available,7.99,50.99,low,low,9,name.com,,,
 2e604975-7f10-4f45-8cc3-5f1e8a001297,defence.builders,available,7.99,,high,low,7,name.com,,,
 894d7d43-725e-43dd-8daf-b78f90b3e14c,domesticworker.builders,available,7.99,,high,low,15,name.com,,,
@@ -776,7 +774,7 @@ e49e314a-2c17-45fb-8546-f1e66797db32,deepdishpizza.builders,available,7.99,,high
 21d3301b-7bd5-4e93-9f96-24367abb6b7a,urge.builders,available,7.99,,high,low,4,name.com,,,
 6bbd5029-8643-481a-8035-7c200673d3ae,barbeque.builders,available,7.99,,high,low,8,name.com,,,
 31be2ff9-7c85-4018-840c-3a4968490459,templecity.builders,available,7.99,,low,low,11,name.com,,,
-a1021c10-1c09-4230-b64e-b20b873015a7,givebirth.builders,available,7.99,,high,low,10,name.com,,,
+a1021c10-1c09-4230-b64e-b20b873015a7,givebirth.builders,available,34.98,43.98,low,low,10,namecheap,,,23/09/2026 20:56
 9ea51d39-fca7-4b9b-bfc4-f522749bca0b,elaborated.builders,available,7.99,50.99,medium,low,10,name.com,,,
 e94f7a0f-a37d-4794-9693-08589a48bde7,pharmacy.builders,available,7.99,,high,low,8,name.com,,,
 7b21d849-47cc-4aea-8c5f-1d36e9380b73,respectfully.builders,available,7.99,,medium,low,12,name.com,,,
@@ -785,7 +783,7 @@ e94f7a0f-a37d-4794-9693-08589a48bde7,pharmacy.builders,available,7.99,,high,low,
 bdb34692-18dc-4767-8920-4ceb217834dd,mitigatory.builders,available,7.99,50.99,low,low,10,name.com,,,
 10e0651c-aef4-4cdb-bcf4-792f7c1ccd61,xli.builders,available,7.99,50.99,low,low,3,name.com,,,
 dcf13c32-8dd8-4020-bed1-0b96901fca57,clxv.builders,available,,,medium,low,4,,,,
-11c22a0a-63da-4544-a5ec-fb9088bea600,burnt.builders,available,7.99,,medium,low,5,name.com,,,
+11c22a0a-63da-4544-a5ec-fb9088bea600,burnt.builders,available,35.99,35.99,low,low,5,namesilo,,,23/09/2026 11:41
 bdd9996e-4930-4916-a32b-ffb89cb8d976,alcoholabuse.builders,available,7.99,,medium,low,13,name.com,,,
 5b2253c9-8320-4374-afce-6cde472ad920,silverish.builders,available,7.99,50.99,low,low,9,name.com,,,06/08/2026 18:01
 2ed4ef74-eb3a-4c10-8074-96e23e6f6c20,fucking.builders,available,7.99,,medium,medium,7,name.com,,,
@@ -799,7 +797,7 @@ b3d6c434-846e-4893-9431-19f5da59450a,exhaust.builders,available,7.99,,high,low,7
 d48a7368-d54d-47f3-b717-d76684d438df,ifallen.builders,available,7.99,,medium,low,8,name.com,,,
 b094ef83-6eb2-4367-9c48-13c12da35a04,brief.builders,available,34.98,43.98,medium,low,5,namecheap,,,21/09/2026 13:42
 04053fdf-8fca-4963-a527-79ce7b219ae7,influential.builders,available,34.98,43.98,medium,low,11,namecheap,,,08/09/2026 05:20
-b1e2a694-72f6-4928-be26-86661a522ff5,costly.builders,available,7.99,50.99,medium,low,6,name.com,,,
+b1e2a694-72f6-4928-be26-86661a522ff5,costly.builders,available,35.99,35.99,low,low,6,namesilo,,,24/09/2026 00:19
 c55ff8a4-0515-41c5-a2df-aeeeda87e69e,shoplift.builders,available,7.99,,high,low,8,name.com,,,
 e4b75f05-4b12-4818-a15d-c8aa1da6bf8d,fungicide.builders,available,7.99,50.99,low,low,9,name.com,,,
 06deb9b8-12c1-4c7f-8a91-ae17aeb0d4d9,moving.builders,available,7.99,,high,low,6,name.com,,,
@@ -819,7 +817,6 @@ ab690642-2dc3-479c-8e21-bb361ad77cd6,childbenefit.builders,available,7.99,,mediu
 3c82abef-3c55-4f84-8b20-cb6c73f69aae,aleutian.builders,available,7.99,50.99,low,low,8,name.com,,,
 cd6fd2d9-fdef-4791-b632-5427d1dc4b84,netflix.builders,available,,,high,medium,7,,,,
 d369fd6b-8bce-48ed-b92e-b27e813a5b74,peacecorps.builders,available,7.99,,low,low,11,name.com,,,
-77fb033f-a343-4a10-bae2-95258c998b8f,custom.builders,resell,,,medium,low,6,,,,20/09/2026 02:48
 0960e029-cc85-46b5-9f5e-6d5cba3084c0,whitemeat.builders,available,7.99,,low,low,10,name.com,,,
 af9ec406-b870-4638-b7cf-15e06f51859d,irritable.builders,available,7.99,,medium,low,9,name.com,,,
 17e5559c-4fc4-4318-a98f-7adaa1764d35,jewish.builders,available,7.99,,high,low,6,name.com,,,
@@ -835,7 +832,7 @@ b73f07b7-7e4b-4b6b-9de5-41ba3aee00b0,asian.builders,available,35.99,35.99,low,lo
 78999568-2a20-46c9-9c90-4020ea90a3be,cows.builders,available,7.99,,medium,low,4,name.com,,,
 434aae1d-0479-4d85-a05b-17bf879d6798,ambrosial.builders,available,7.99,50.99,low,low,9,name.com,,,
 2ab5e8e8-9593-4be7-97b5-5c956367ca4d,howareyougoing.builders,available,7.99,,medium,low,17,name.com,,,
-259cebee-6b9e-49a0-9104-b34a3ee02295,environment.builders,available,35.99,35.99,medium,low,11,namesilo,,,19/09/2026 04:45
+259cebee-6b9e-49a0-9104-b34a3ee02295,environment.builders,available,35.99,35.99,medium,low,11,namesilo,,,23/09/2026 08:17
 1076da0d-e39a-4f6d-a1c1-b463fe5e4656,small.builders,available,34.98,43.98,medium,low,5,namecheap,,,22/09/2026 19:21
 45a0efbe-adf7-4c82-9914-54c249222ee2,arrogant.builders,available,35.99,35.99,low,low,8,namesilo,,,22/09/2026 08:39
 138434ae-68a4-42b9-a5fe-e52095b65e50,nonsexual.builders,available,7.99,50.99,low,low,9,name.com,,,07/08/2026 01:38
@@ -844,7 +841,7 @@ b73f07b7-7e4b-4b6b-9de5-41ba3aee00b0,asian.builders,available,35.99,35.99,low,lo
 39b397d1-a8f3-4cb3-917a-166ee3941bb0,purple.builders,available,7.99,,medium,medium,6,name.com,,,
 b184082e-f559-4b8b-b8cb-86430dde0bfc,browsing.builders,available,7.99,,high,low,8,name.com,,,
 031cb233-84c7-4d79-9554-f548225aeb95,grievous.builders,available,7.99,50.99,low,low,8,name.com,,,07/08/2026 14:41
-66cc642b-4ad4-434a-9174-f9001216059c,expert.builders,premium,520,520,medium,low,6,namecheap,,,19/09/2026 12:41
+66cc642b-4ad4-434a-9174-f9001216059c,expert.builders,premium,520,520,medium,low,6,namecheap,,,23/09/2026 15:34
 1c67f4f2-9434-40fc-925b-733435401909,playbyear.builders,available,7.99,,medium,low,11,name.com,,,
 51c325c2-709f-4f85-98ab-342558cf19ce,antlered.builders,available,7.99,50.99,low,low,8,name.com,,,05/08/2026 20:11
 92d071af-0df1-4a9e-9e34-801f7e32aef0,whiz.builders,available,34.98,43.98,medium,low,4,namecheap,,,21/09/2026 18:01
@@ -855,7 +852,7 @@ d83124f4-c210-403b-952e-99a149927e3c,departmentstore.builders,available,7.99,,hi
 bfd4d12a-0382-4fba-8a9b-39d596d09c63,career.builders,available,,,high,low,6,,,,
 8660eab7-686b-443b-952a-d1768da73c1e,unfearing.builders,available,34.98,43.98,low,low,9,namecheap,,,22/09/2026 12:32
 abb181d4-5dde-458e-ab62-be8aa139fb96,annualreport.builders,available,7.99,,high,low,13,name.com,,,
-eeb8864f-c869-4028-9ef0-61875393b631,corrupted.builders,available,7.99,50.99,medium,low,9,name.com,,,
+eeb8864f-c869-4028-9ef0-61875393b631,corrupted.builders,available,35.99,35.99,low,low,9,namesilo,,,23/09/2026 23:59
 0dd5a1a5-20b2-4034-9f07-f3a483d1d989,stress.builders,available,7.99,,high,low,6,name.com,,,
 5d766f4b-43bf-4eb1-9030-519e6ffe9543,majestic.builders,available,7.99,,high,low,8,name.com,,,
 e61c85c5-b325-4093-81e0-e0254be0cbf4,indeed.builders,available,,,high,low,6,,,,
@@ -893,7 +890,7 @@ f543ddc3-ee65-4ee4-903c-1d1369c29735,attraction.builders,available,7.99,,high,lo
 4f70540d-df9b-4cf3-9bce-ee07e2227b41,coast.builders,premium,242,242,high,low,5,namesilo,,,
 6ad41385-f079-49e8-b9a8-924be223da18,profess.builders,available,7.99,,high,low,7,name.com,,,
 8d8fe7d7-9945-43d0-995c-cbc7dea39379,alkalizer.builders,available,7.99,50.99,low,low,9,name.com,,,
-168b2c02-9935-468b-b286-24c578c69d32,punk.builders,available,7.99,,high,low,4,name.com,,,
+168b2c02-9935-468b-b286-24c578c69d32,punk.builders,available,35.99,35.99,low,low,4,namesilo,,,23/09/2026 11:14
 29b0834c-04c7-4ad7-89d6-b35de154ea1d,appetizing.builders,available,7.99,50.99,low,low,10,name.com,,,06/08/2026 06:45
 ef510c3f-e7f8-4db2-94bd-dd918352d10c,lion.builders,available,7.99,,high,low,4,name.com,,,
 e0f988c3-9282-4ad4-a009-ce80a513b7db,gripping.builders,available,35.99,35.99,medium,low,8,namesilo,,,21/09/2026 15:05
@@ -913,7 +910,7 @@ b091fa39-f268-461d-92e1-eed28654a9a3,jay.builders,premium,118.8,118.8,medium,low
 de1a105b-2a91-4758-b32b-f22b758f725a,ahorse.builders,available,7.99,50.99,low,low,6,name.com,,,
 02a11357-afeb-47bb-aa79-16783f699c64,daughter.builders,available,7.99,,high,low,8,name.com,,,
 49248c7f-ca5a-46b9-84b5-3c0c43dff86a,wondered.builders,available,7.99,,medium,low,8,name.com,,,
-dd4762a9-99e6-4940-b05f-46a1e42d7517,central.builders,premium,118.8,118.8,high,low,7,namesilo,,,
+dd4762a9-99e6-4940-b05f-46a1e42d7517,central.builders,premium,118.8,118.8,low,low,7,namesilo,,,23/09/2026 12:46
 e3d44bc3-f9d7-4580-a5ed-f2f473101e5c,fortyfour.builders,available,7.99,50.99,low,low,10,name.com,,,
 315ea509-7d7a-4031-88c5-e78c0a0af211,slanting.builders,available,7.99,50.99,low,low,8,name.com,,,07/08/2026 04:20
 e42d0f36-b337-4bdf-8861-5f121045589a,marine.builders,premium,118.8,118.8,high,low,6,namesilo,,,
@@ -928,7 +925,7 @@ f0064c84-1ddc-444b-8cf7-8f0cd6262a2e,triplet.builders,available,7.99,50.99,low,l
 a0be2c87-f5ab-432d-9497-32c412c5ac15,hopefully.builders,available,7.99,,high,low,9,name.com,,,
 4e6f8f4b-fa87-4573-93e1-369cba361e6a,lock.builders,available,7.99,,medium,low,4,name.com,,,
 cc4d7eab-3d6d-4732-967d-5566a2f6d5a9,closeoneeye.builders,available,7.99,,high,low,13,name.com,,,
-3f326c26-4308-47eb-85e6-6f4c6820c970,analysis.builders,available,7.99,,high,low,8,name.com,,,
+3f326c26-4308-47eb-85e6-6f4c6820c970,analysis.builders,available,34.98,43.98,medium,low,8,namecheap,,,23/09/2026 08:36
 227966dd-b7b9-48b4-8b6e-593c3b8ca69c,compositionbook.builders,available,7.99,,high,low,16,name.com,,,
 0004d6fe-ba8e-4fdf-beb1-ef02110c63c0,halfassed.builders,available,7.99,,medium,low,10,name.com,,,
 aecc83f3-518b-459f-adc9-6e711ae82150,jimmy.builders,available,7.99,,high,low,5,name.com,,,
@@ -970,7 +967,7 @@ b1fdcf9d-9a84-41ef-abaf-e0d35e00c0f8,awry.builders,available,7.99,50.99,low,low,
 76c7768a-6bda-429f-8e5c-c2de026d9800,traffic.builders,premium,82.5,,high,low,7,name.com,,,
 cb6bada2-cf0b-4472-b4ee-dbf267481c23,combatant.builders,available,7.99,50.99,low,low,9,name.com,,,09/08/2026 13:29
 aabc3395-fd69-462d-a8ff-b129a3ba512a,bleak.builders,available,7.99,50.99,low,low,5,name.com,,,08/08/2026 21:02
-33ed8fd4-060a-46a2-bd19-dc64ff3dafb2,health.builders,resell,,,medium,low,6,"Spaceship, Inc.",26/03/2014 16:00,26/03/2027 16:00,19/09/2026 10:54
+33ed8fd4-060a-46a2-bd19-dc64ff3dafb2,health.builders,resell,,,medium,low,6,"Spaceship, Inc.",26/03/2014 16:00,26/03/2027 16:00,23/09/2026 08:29
 2b359487-0367-47af-bc3f-e11cc9214f1f,sixteenth.builders,available,7.99,50.99,low,low,9,name.com,,,
 b9b181ab-e48b-424f-8c50-80d847210cda,eid.builders,available,7.99,,high,low,3,name.com,,,
 41d22d8d-ffd2-407d-925f-95293f1c7fb7,opt.builders,premium,78.54,78.54,medium,low,3,namesilo,,,
@@ -999,3 +996,6 @@ d2716804-50a3-4889-aabf-c798ddd046b8,adsorbate.builders,available,7.99,50.99,low
 fd142c10-9702-42e5-838d-65df86232792,airfilled.builders,available,7.99,50.99,low,low,10,name.com,,,
 843da3d0-4f17-4076-a1f6-7523842684ae,pandabear.builders,available,7.99,,high,low,10,name.com,,,
 18fa0c69-ea08-47a5-b8a9-7fa545669108,organization.builders,available,7.99,,medium,low,12,name.com,,,
+18a8893d-caf0-4e63-a724-0aee4f887129,bra.builders,premium,78.54,78.54,medium,low,3,namesilo,,,
+c3e61cab-8692-4d19-9e27-bab33343317b,famous.builders,premium,242,242,medium,low,6,namesilo,,,23/09/2026 13:15
+af348391-c7be-4d2d-8507-6594dcaa6c75,newtestament.builders,available,7.99,,low,low,13,name.com,,,
