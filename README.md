@@ -1,10 +1,10 @@
-# Available .BUILDERS One-Word Domains (31,822)
+# Available .BUILDERS One-Word Domains (34,125)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C822%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C125%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .builders one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,822 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,125 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,822 domains · **Median ask:** $28.38 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 34,125 domains · **Median ask:** $28.51 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/builders`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aas.builders    | available | $35.99    | $35.99        | high           | low    | 3      | namesilo         |
+| aan.builders    | available | $27.20    | $27.20        | medium         | low    | 3      | cloudflare       |
 | life.builders   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
 | axe.builders    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| afa.builders    | available | $4.50     | $29.01        | high           | low    | 3      | dynadot          |
+| aas.builders    | available | $35.99    | $35.99        | high           | low    | 3      | namesilo         |
 | tech.builders   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| bon.builders    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| afa.builders    | available | $4.50     | $29.01        | high           | low    | 3      | dynadot          |
+| inbox.builders  | resell    | —         | —             | high           | medium | 5      | —                |
 | bro.builders    | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship        |
 | ana.builders    | available | $28.15    | $28.15        | high           | low    | 3      | spaceship        |
-| inbox.builders  | resell    | —         | —             | high           | medium | 5      | —                |
-| coy.builders    | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap        |
-| bpm.builders    | available | $35.99    | $35.99        | high           | low    | 3      | namesilo         |
 | steel.builders  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| hog.builders    | premium   | $36.32    | $72.57        | high           | low    | 3      | porkbun          |
-| cva.builders    | available | $34.98    | $43.98        | medium         | low    | 3      | namecheap        |
+| coy.builders    | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap        |
+| bca.builders    | available | $35.99    | $35.99        | high           | low    | 3      | namesilo         |
 | credit.builders | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
+| hog.builders    | premium   | $36.32    | $72.57        | high           | low    | 3      | porkbun          |
+| bpm.builders    | available | $35.99    | $35.99        | high           | low    | 3      | namesilo         |
 | hon.builders    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| ecm.builders    | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare       |
+| cva.builders    | available | $34.98    | $43.98        | medium         | low    | 3      | namecheap        |
 | jaw.builders    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| eos.builders    | available | $35.99    | $35.99        | high           | low    | 3      | namesilo         |
-| mud.builders    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| hms.builders    | available | $28.15    | $28.15        | medium         | low    | 3      | spaceship        |
+| ecm.builders    | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,822 live domains                        |
+| 1,000-row public sample | 34,125 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILDERS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILDERS One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
